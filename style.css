@@ -11,7 +11,7 @@ body{
         background-color: hsl(0, 0%, 15%);
         border-radius: 50%;
         max-width: 500px;
-        overflow: hidden;
+        overflow: auto;
 }
 #display{
 width: 100%;
